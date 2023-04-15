@@ -17,6 +17,6 @@ I don't think that my stack have to stop on this technologies, if you want to ge
 <hr>
 Skills: REACT / REDUX TOOLKIT / SCSS / JS / TYPESCRIPT / HTML / TAILWIND  
 
-- I’m currently working on my pet-project E-COMMERCE  
+
 
 
